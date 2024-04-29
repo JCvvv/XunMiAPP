@@ -35,30 +35,30 @@
 
 按照最后聊天的时间展示信息
 
-![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/2.png)
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/1.png)
 
 添加数字人
 
-![2]([ReadmeImage\2.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/2.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/2.png)
 
 填入信息
 
-![3]([ReadmeImage\3.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/3.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/3.png)
 
 添加成功
 
-![4]([ReadmeImage\4.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/4.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/4.png)
 
 #### 通讯录
 
 按照首字母排序
 
-![5]([ReadmeImage\5.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/5.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/5.png)
 
 #### 个人中心
 
-![6]([ReadmeImage\6.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/6.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/6.png)
 
 可以更改头像和用户名/个人信息
 
-![7]([ReadmeImage\7.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/7.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/7.png)
