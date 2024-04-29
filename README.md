@@ -35,7 +35,7 @@
 
 按照最后聊天的时间展示信息
 
-![1]([ReadmeImage\1.png](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/1.png))
+![1](https://github.com/JCvvv/XunMiAPP/blob/main/ReadmeImage/2.png)
 
 添加数字人
 
